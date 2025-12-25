@@ -101,49 +101,55 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+### 💻 Core Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-000?logo=csharp)
 
-### ⚙️ Frameworks & Platforms
-![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+### 🔥 Frontend
+![HTML](https://img.shields.io/badge/HTML-000?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?logo=css3)
 ![React](https://img.shields.io/badge/React-000?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-000?logo=angular)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
+### 🧠 AI / Data Stack
+![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
 
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare)
+![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase)
 
-
-
-
+## 🏗 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-111?logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111?logo=linux)
+![Git](https://img.shields.io/badge/Git-111?logo=git)
 
 ### 🗄 Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
 
-### 🔧 Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
-![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
-![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-
-
+### 🧰 Product & Workflow Tools
+![Figma](https://img.shields.io/badge/Figma-111?logo=figma)
+![Notion](https://img.shields.io/badge/Notion-111?logo=notion)
+![Discord](https://img.shields.io/badge/Discord-111?logo=discord)
+![Apple](https://img.shields.io/badge/Apple-111?logo=apple)
+![Discord](https://img.shields.io/badge/Discord-000?logo=discord)
 
 
 ---
@@ -151,7 +157,6 @@ A technology company focused on **long-term impact**, building platforms that em
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cappiexs-projects&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CappieX&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
