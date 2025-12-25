@@ -29,6 +29,9 @@
   &nbsp;&nbsp;
   <a href="mailto:fitsum.mulugeta@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?logo=gmail&logoColor=00FF9C" />
+    <a href="website:https://sites.google.com/view/
+fitmulugeta-tesfaye">
+    <img src="https://img.shields.io/badge/website-0D1117?logo=Website&logoColor=00FF9C" />
   </a>
 </p>
 
