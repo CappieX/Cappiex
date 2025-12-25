@@ -105,6 +105,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-000?logo=csharp)
 
@@ -114,7 +115,16 @@ A technology company focused on **long-term impact**, building platforms that em
 ![React](https://img.shields.io/badge/React-000?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
-![Azure](https://img.shields.io/azure-devops/coverage/:organization/:project/:definitionId)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+
 
 ### 🗄 Databases
 ![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
@@ -127,6 +137,12 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
+
 
 ---
 
