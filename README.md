@@ -132,7 +132,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CappieX&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cappiexs-projects&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CappieX&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
