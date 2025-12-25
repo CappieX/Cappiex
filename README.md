@@ -114,6 +114,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![React](https://img.shields.io/badge/React-000?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
+![Azure](https://img.shields.io/azure-devops/coverage/:organization/:project/:definitionId)
 
 ### 🗄 Databases
 ![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
@@ -150,6 +151,7 @@ I’m focused on **deep systems**, **ethical AI**, and **infrastructure that mat
 
 ## 🤝 Open To
 
+- Remote only Jobs Full-Time| Part-Time | Project-Based
 - Strategic partnerships
 - Impact-driven startups
 - AI, healthcare & data platforms
