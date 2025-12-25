@@ -16,9 +16,9 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Professional Summary
 
-I’m **Fitsum Mulugeta Tesfaye**, a **Computer Engineer, Systems Architect, and Technology Founder** with **15+ years of hands-on experience** across:
+I’m **Fitsum Mulugeta Tesfaye**, Detail-oriented **Full-Stack Software Developer** with hands-on experience in backend and frontend development, **database systems**, and **API integration**. Skilled in *Python*, *JavaScript*, *SQL*, and *modern frameworks*, with a strong foundation in problem-solving, software testing, and continuous improvement. Seeking ***Junior–Mid level Full-Stack or Backend Software Engineer*** roles where I can contribute to scalable, efficient, and user-focused solutions. With Professional Development Skills for Digital Age. a **Computer Engineer, Systems Architect, and Technology Founder** with **15+ years of hands-on experience** across:
 
 - Hardware & infrastructure
 - Full-stack software engineering
