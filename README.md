@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 Professional Brand Statement
 
 I’m **Fitsum Mulugeta Tesfaye**, Detail-oriented **Full-Stack Software Developer** with hands-on experience in backend and frontend development, **database systems**, and **API integration**. Skilled in *Python*, *JavaScript*, *SQL*, and *modern frameworks*, with a strong foundation in problem-solving, software testing, and continuous improvement. Seeking ***Junior–Mid level Full-Stack or Backend Software Engineer*** roles where I can contribute to scalable, efficient, and user-focused solutions. With Professional Development Skills for Digital Age. a **Computer Engineer, Systems Architect, and Technology Founder** with **15+ years of hands-on experience** across:
 
@@ -33,6 +33,10 @@ I don’t just ship features —
 I design **systems that scale, adapt, and endure**.
 
 My work is deeply rooted in **real-world problems**, especially within **healthcare, emotional intelligence, and enterprise systems** in Ethiopia and beyond.
+
+---
+## Professional Story – The Journey
+*From repairing computers as a young freelancer to founding Enum Technologies, my journey has always been driven by curiosity, resilience, and a commitment to meaningful progress. Every role I held—technical, customer-facing, and leadership—revealed the same pattern: solve real problems, improve lives, and build systems that last.Today, that mission continues through Enum Technologies, where I am developing platforms such as Enum HMS and AI-powered emotional intelligence systems. The company is currently in the startup growth phase, actively building core products and preparing for scale. As part of that vision, I am also seeking strategic investors and partners who believe in long-term, impactful technology development in Ethiopia and beyond.*
 
 ---
 
@@ -173,6 +177,8 @@ A technology company focused on **long-term impact**, building platforms that em
 > **Every build should leave a legacy.**
 
 I’m focused on **deep systems**, **ethical AI**, and **infrastructure that matters** — not hype-driven products.
+*I operate with intention, focus, and authenticity—building a personal brand that reflects consistency, growth, and a long-term vision for technology that
+matters.*
 
 ---
 
