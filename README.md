@@ -10,17 +10,40 @@
   </picture>
 </p>
 
-<h1 align="center">Building Impactful Technology That Lasts</h1>
+<h1 align="center">Building Impactful Technology That Lasts</h1> 
+<!-- ================= CONTACT PANEL ================= -->
+<svg width="100%" height="46" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="46" fill="#00FF9C"/>
+  <text x="25%" y="15" fill="#00FF9C" font-size="8" font-family="monospace" text-anchor="left">
+  </text>
+</svg>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/fitsum-mulugeta-39454750" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?logo=linkedin&logoColor=00FF9C" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/CappieX" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=00FF9C" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:fitsum.mulugeta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?logo=gmail&logoColor=00FF9C" />
+  </a>
+</p>
+
+
+<p align="center">
+
+<p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineer+%26+Systems+Architect;Founder+%40+Enum+Technologies;Full-Stack+Developer+%7C+AI+Platforms;Designing+Scalable%2C+Human-Centered+Systems" />
 </p>
----
 
 <!-- ================= WHOAMI ================= -->
 <svg width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="40" fill="#0D1117"/>
-  <text x="10" y="26" fill="#00FF9C" font-size="18" font-family="monospace">
+  <text x="10" y="26" fill="#00FF9C" font-size="5" font-family="monospace">
     > ...
   </text>
 </svg>
@@ -203,9 +226,7 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ---
 
-## 🌍 Personal Philosophy
----
-
+## 🌍 Personal Philosophy ...
 ```txt
 [ PHILOSOPHY.LOG ]
 > Technology should outlive trends
@@ -217,6 +238,7 @@ I’m focused on **deep systems**, **ethical AI**, and **infrastructure that mat
 matters.*
 
 ---
+
 ```txt
 [ 🤝 Open To ]
 ```
@@ -231,8 +253,7 @@ matters.*
 🗣 Amharic (Native) | English (Fluent)
 ```
 ---
-
-<p align="center">
+  
   <picture>
     <source media="(prefers-color-scheme: white)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6EDF3,100:1F6FEB&height=120&section=footer">
