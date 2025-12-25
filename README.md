@@ -5,7 +5,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&text=Fitsum%20Mulugeta%20Tesfaye&fontSize=40&fontColor=E6EDF3&fontAlignY=35&desc=Founder%20•%20Systems%20Architect%20•%20AI%20Builder&descAlignY=55">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:E6EDF3&height=180&text=Fitsum%20Mulugeta%20Tesfaye&fontSize=40&fontColor=0D1117&fontAlignY=35&desc=Founder%20•%20Systems%20Architect%20•%20AI%20Builder&descAlignY=55">
   </picture>
 </p>
 
@@ -133,7 +132,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare)
 ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase)
 
-## 🏗 DevOps & Infrastructure
+## 🏗 DevOps & Operations
 ![Docker](https://img.shields.io/badge/Docker-111?logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-111?logo=linux)
 ![Git](https://img.shields.io/badge/Git-111?logo=git)
