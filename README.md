@@ -240,14 +240,21 @@ matters.*
 ---
 
 ```txt
-[ 🤝 Open To ]
-```
-```
-- Remote only Jobs Full-Time| Part-Time | Project-Based
-- Strategic partnerships
-- Impact-driven startups
-- AI, healthcare & data platforms
-- Long-term, meaningful collaboration
+STATUS ::
+Open to Full-Time | Contract | Remote Roles
+
+TARGET_ROLES ::
+Software Engineer (Backend / Full-Stack)
+Systems / Platform Engineer
+AI / Data-Driven Systems Engineer
+
+FOCUS ::
+Distributed systems
+Backend architecture
+Frontend Developer
+UI/UX Manager
+AI-powered platforms
+Healthcare & high-impact infrastructure
 
 📍 Ethiopia | 🌍 Global-ready  
 🗣 Amharic (Native) | English (Fluent)
