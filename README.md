@@ -8,7 +8,7 @@
   </picture>
 </p>
 
-<h3 align="center">Building Impactful Technology That Lasts</h3>
+<h1 align="center">Building Impactful Technology That Lasts</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineer+%26+Systems+Architect;Founder+%40+Enum+Technologies;Full-Stack+Developer+%7C+AI+Platforms;Designing+Scalable%2C+Human-Centered+Systems" />
@@ -25,6 +25,7 @@ I’m **Fitsum Mulugeta Tesfaye**, a **Computer Engineer, Systems Architect, and
 - Network systems & security
 - AI-powered platforms
 - Product & startup leadership
+- Professional Development Skills for Digital Age
 
 I don’t just ship features —  
 I design **systems that scale, adapt, and endure**.
