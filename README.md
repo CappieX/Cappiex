@@ -4,6 +4,8 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: white)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6EDF3,100:1F6FEB&height=100&section=header">
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&text=Fitsum%20Mulugeta%20Tesfaye&fontSize=40&fontColor=E6EDF3&fontAlignY=35&desc=Founder%20•%20Systems%20Architect%20•%20AI%20Builder&descAlignY=55">
   </picture>
 </p>
@@ -55,13 +57,13 @@ A technology company focused on **long-term impact**, building platforms that em
 - Clinical workflows
 - Data-driven decision support
 - Secure, compliant system design
-
+---
 **Architecture Highlights**
 - Modular backend services
 - Role-based access (Admins, Clinicians, Staff)
 - Secure medical data handling
 - Designed for future AI & analytics integration
-
+---
 📌 *Status: Active development & system expansion*
 
 📸 **Architecture / Screenshots**
@@ -107,7 +109,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-000?logo=csharp)
-
+---
 ### 🔥 Frontend
 ![HTML](https://img.shields.io/badge/HTML-000?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?logo=css3)
@@ -115,35 +117,35 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 ![Angular](https://img.shields.io/badge/Angular-000?logo=angular)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
-
+---
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
-
+---
 ### 🧠 AI / Data Stack
 ![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
-
+---
 ### ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare)
 ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase)
-
+---
 ## 🏗 DevOps & Operations
 ![Docker](https://img.shields.io/badge/Docker-111?logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-111?logo=linux)
 ![Git](https://img.shields.io/badge/Git-111?logo=git)
-
+---
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
-
+---
 ### 🧰 Product & Workflow Tools
 ![Figma](https://img.shields.io/badge/Figma-111?logo=figma)
 ![Notion](https://img.shields.io/badge/Notion-111?logo=notion)
@@ -187,7 +189,7 @@ I’m focused on **deep systems**, **ethical AI**, and **infrastructure that mat
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer">
+    <source media="(prefers-color-scheme: white)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6EDF3,100:1F6FEB&height=120&section=footer">
   </picture>
 </p>
