@@ -13,15 +13,36 @@
 <h1 align="center">Building Impactful Technology That Lasts</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineer+%26+Systems+Architect;Founder+%40+Enum+Technologies;Full-Stack+Developer+%7C+AI+Platforms;Designing+Scalable%2C+Human-Centered+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Engineer+%26+Systems+Architect;Founder+%40+Enum+Technologies;Full-Stack+Developer+%7C+AI+Platforms;Designing+Scalable%2C+Human-Centered+Systems" />
 </p>
-
 ---
 
-## 🧠 Professional Brand Statement
+<!-- ================= WHOAMI ================= -->
+<svg width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="40" fill="#0D1117"/>
+  <text x="10" y="26" fill="#00FF9C" font-size="18" font-family="monospace">
+    > ...
+  </text>
+</svg>
+
+```txt
+[ SYS_PROFILE :: FITSUM_MULUGETA_TESFAYE ]
+
+Computer Engineer | Systems Architect | Technology Founder
+Founder @ Enum Technologies [StartUp Phase]
+Location :: Ethiopia | Global-Ready
+Languages :: Amharic (Native) | English (Fluent)
+
+I don’t just ship features —  
+I design systems that scale, adapt, and endure.
+```
+---
+``` txt
+[ Professional Brand Statement ]
+```
 
 I’m **Fitsum Mulugeta Tesfaye**, Detail-oriented **Full-Stack Software Developer** with hands-on experience in backend and frontend development, **database systems**, and **API integration**. Skilled in *Python*, *JavaScript*, *SQL*, and *modern frameworks*, with a strong foundation in problem-solving, software testing, and continuous improvement. Seeking ***Junior–Mid level Full-Stack or Backend Software Engineer*** roles where I can contribute to scalable, efficient, and user-focused solutions. With Professional Development Skills for Digital Age. a **Computer Engineer, Systems Architect, and Technology Founder** with **15+ years of hands-on experience** across:
-
+```
 - Hardware & infrastructure
 - Full-stack software engineering
 - Network systems & security
@@ -29,19 +50,15 @@ I’m **Fitsum Mulugeta Tesfaye**, Detail-oriented **Full-Stack Software Develop
 - Product & startup leadership
 - Professional Development Skills for Digital Age
 
-I don’t just ship features —  
-I design **systems that scale, adapt, and endure**.
+```
 
 My work is deeply rooted in **real-world problems**, especially within **healthcare, emotional intelligence, and enterprise systems** in Ethiopia and beyond.
 
 ---
-## Professional Story – The Journey
-*From repairing computers as a young freelancer to founding Enum Technologies, my journey has always been driven by curiosity, resilience, and a commitment to meaningful progress. Every role I held—technical, customer-facing, and leadership—revealed the same pattern: solve real problems, improve lives, and build systems that last.Today, that mission continues through Enum Technologies, where I am developing platforms such as Enum HMS and AI-powered emotional intelligence systems. The company is currently in the startup growth phase, actively building core products and preparing for scale. As part of that vision, I am also seeking strategic investors and partners who believe in long-term, impactful technology development in Ethiopia and beyond.*
 
----
-
-## 🚀 Companies & Platforms
-
+```txt
+[ 🚀 Companies & Platforms]
+```
 ### 🏢 **Enum Technologies** (Founder)
 A technology company focused on **long-term impact**, building platforms that empower institutions, professionals, and communities.
 
@@ -50,10 +67,10 @@ A technology company focused on **long-term impact**, building platforms that em
 - 🤖 **MR.CREAMS** – AI-Powered Emotional Intelligence Platform  
 
 ---
-
-## 🧬 Flagship Projects
-
-### 🏥 Enum HMS — Healthcare Management System
+```txt
+[🧬 Flagship Projects]
+```
+## 🏥 Enum HMS — Healthcare Management System
 > **A scalable, modular HMS designed for real healthcare environments**
 
 **Focus**
@@ -61,21 +78,20 @@ A technology company focused on **long-term impact**, building platforms that em
 - Clinical workflows
 - Data-driven decision support
 - Secure, compliant system design
----
+
 **Architecture Highlights**
 - Modular backend services
 - Role-based access (Admins, Clinicians, Staff)
 - Secure medical data handling
 - Designed for future AI & analytics integration
----
+
 📌 *Status: Active development & system expansion*
 
 📸 **Architecture / Screenshots**
 > _(Coming soon — system diagrams & UI previews will be added)_  
 
----
 
-### 🤖 MR.CREAMS — AI-Powered Emotional Intelligence Platform
+## MODEL::  MR.CREAMS — AI-Powered Emotional Intelligence Platform
 🔗 Repository: **https://github.com/CappieX/MRCREAMS**
 
 **Mission**
@@ -105,64 +121,81 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ---
 
-## 🛠 Tech Stack
+## [ 🛠 Tech Stack ]
 
-### 💻 Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![PHP](https://img.shields.io/badge/PHP-000?logo=php)
-![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-000?logo=csharp)
+```txt
+[ /> Core Languages ]
+```
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=00FF9C)
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=00FF9C)
+![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus&logoColor=00FF9C)
+![C#](https://img.shields.io/badge/C%23-000?logo=csharp&logoColor=00FF9C)
 ---
-### 🔥 Frontend
-![HTML](https://img.shields.io/badge/HTML-000?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?logo=css3)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-000?logo=angular)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)
+```txt
+[ 🔥 Frontend ]
+```
+![HTML](https://img.shields.io/badge/HTML-000?logo=html5&logoColor=00FF9C)
+![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=00FF9C)
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=00FF9C)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=00FF9C)
+![Angular](https://img.shields.io/badge/Angular-000?logo=angular&logoColor=00FF9C)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss&logoColor=00FF9C)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&logoColor=00FF9C)
+![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&logoColor=00FF9C)
 ---
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
+```txt
+[ ⚙️ Backend & APIs ]
+```
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=00FF9C)
+![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=00FF9C)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=00FF9C)
 ---
-### 🧠 AI / Data Stack
-![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
+```txt
+[ :: AI / Data Stack]
+```
+![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy&logoColor=00FF9C)
+![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas&logoColor=00FF9C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=00FF9C)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=00FF9C)
+![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=00FF9C)
 ---
-### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare)
-![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase)
+```txt
+[ ☁️ Cloud & Platforms ]
+```
+![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws&logoColor=00FF9C)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare&logoColor=00FF9C)
+![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase&logoColor=00FF9C)
 ---
-## 🏗 DevOps & Operations
-![Docker](https://img.shields.io/badge/Docker-111?logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111?logo=linux)
-![Git](https://img.shields.io/badge/Git-111?logo=git)
+```txt
+[ 🏗 DevOps & Operations ]
+```
+![Docker](https://img.shields.io/badge/Docker-111?logo=docker&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/Linux-111?logo=linux&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=00FF9C)
 ---
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
+```txt
+[ 🗄 Databases] 
+```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=00FF9C)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=00FF9C)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=00FF9C)
+![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=00FF9C)
 ---
-### 🧰 Product & Workflow Tools
-![Figma](https://img.shields.io/badge/Figma-111?logo=figma)
-![Notion](https://img.shields.io/badge/Notion-111?logo=notion)
-![Discord](https://img.shields.io/badge/Discord-111?logo=discord)
-![Apple](https://img.shields.io/badge/Apple-111?logo=apple)
-![Discord](https://img.shields.io/badge/Discord-000?logo=discord)
+```txt
+[ 🧰 Product & Workflow Tools ]
+```
+![Figma](https://img.shields.io/badge/Figma-111?logo=figma&logoColor=00FF9C)
+![Notion](https://img.shields.io/badge/Notion-111?logo=notion&logoColor=00FF9C)
+![Discord](https://img.shields.io/badge/Discord-111?logo=discord&logoColor=00FF9C)
+![Apple](https://img.shields.io/badge/Apple-111?logo=apple&logoColor=00FF9C)
+![Discord](https://img.shields.io/badge/Discord-000?logo=discord&logoColor=00FF9C)
 
 
 ---
-
-## 📊 GitHub Activity
+```txt
+[  GitHub Activity ]
+```
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CappieX&theme=tokyonight&hide_border=true" height="170"/>
@@ -171,19 +204,23 @@ A technology company focused on **long-term impact**, building platforms that em
 ---
 
 ## 🌍 Personal Philosophy
+---
 
-> **Technology should outlive trends.**  
-> **Systems should empower people.**  
-> **Every build should leave a legacy.**
-
+```txt
+[ PHILOSOPHY.LOG ]
+> Technology should outlive trends
+> Systems should empower people
+> Every build should leave a legacy
+```
 I’m focused on **deep systems**, **ethical AI**, and **infrastructure that matters** — not hype-driven products.
 *I operate with intention, focus, and authenticity—building a personal brand that reflects consistency, growth, and a long-term vision for technology that
 matters.*
 
 ---
-
-## 🤝 Open To
-
+```txt
+[ 🤝 Open To ]
+```
+```
 - Remote only Jobs Full-Time| Part-Time | Project-Based
 - Strategic partnerships
 - Impact-driven startups
@@ -192,7 +229,7 @@ matters.*
 
 📍 Ethiopia | 🌍 Global-ready  
 🗣 Amharic (Native) | English (Fluent)
-
+```
 ---
 
 <p align="center">
