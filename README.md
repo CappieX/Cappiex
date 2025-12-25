@@ -117,6 +117,8 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 ![Angular](https://img.shields.io/badge/Angular-000?logo=angular)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)
 ---
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
