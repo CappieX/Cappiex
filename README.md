@@ -155,7 +155,13 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=00FF9C)
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=00FF9C)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?logo=cplusplus&logoColor=00FF9C)
-![C#](https://img.shields.io/badge/C%23-000?logo=csharp&logoColor=00FF9C)
+![C#](https://img.shields.io/badge/C%23-000?logo=csharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-000?logo=dotnet&logoColor=00FF9C)
+
+
+
+
+
 ---
 ```txt
 [ 🔥 Frontend ]
@@ -168,6 +174,10 @@ A technology company focused on **long-term impact**, building platforms that em
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss&logoColor=00FF9C)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&logoColor=00FF9C)
 ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&logoColor=00FF9C)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000?logo=dotnet&logoColor=00FF9C)
+![Minimal APIs](https://img.shields.io/badge/Minimal_APIs-000?logo=dotnet&logoColor=00FF9C)
+![Blazor](https://img.shields.io/badge/Blazor-000?logo=blazor&logoColor=00FF9C)
+
 ---
 ```txt
 [ ⚙️ Backend & APIs ]
@@ -186,14 +196,17 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=00FF9C)
 ---
 ```txt
-[ ☁️ Cloud & Platforms ]
+[ ☁️ Cloud & DevOpsPlatforms ]
 ```
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws&logoColor=00FF9C)
+![Azure](https://img.shields.io/badge/Azure-000?logo=microsoftazure&logoColor=00FF9C)
+![Azure App Service](https://img.shields.io/badge/Azure_App_Service-000?logo=microsoftazure&logoColor=00FF9C)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-000?logo=azurefunctions&logoColor=00FF9C)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?logo=cloudflare&logoColor=00FF9C)
 ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase&logoColor=00FF9C)
 ---
 ```txt
-[ 🏗 DevOps & Operations ]
+[ 🏗 Containers & CI/CD ]
 ```
 ![Docker](https://img.shields.io/badge/Docker-111?logo=docker&logoColor=00FF9C)
 ![Linux](https://img.shields.io/badge/Linux-111?logo=linux&logoColor=00FF9C)
@@ -206,6 +219,9 @@ A technology company focused on **long-term impact**, building platforms that em
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=00FF9C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=00FF9C)
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=00FF9C)
+![EF Core](https://img.shields.io/badge/EF_Core-000?logo=dotnet&logoColor=00FF9C)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?logo=microsoftsqlserver&logoColor=00FF9C)
+
 ---
 ```txt
 [ 🧰 Product & Workflow Tools ]
@@ -215,9 +231,35 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Discord](https://img.shields.io/badge/Discord-111?logo=discord&logoColor=00FF9C)
 ![Apple](https://img.shields.io/badge/Apple-111?logo=apple&logoColor=00FF9C)
 ![Discord](https://img.shields.io/badge/Discord-000?logo=discord&logoColor=00FF9C)
-
-
 ---
+
+```txt
+[ 🧰 Messaging & Distributed Systems]
+```
+![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-000?logo=microsoftazure&logoColor=00FF9C)
+![Azure Event Grid](https://img.shields.io/badge/Azure_Event_Grid-000?logo=microsoftazure&logoColor=00FF9C)
+---
+```txt
+[ Auth & Security ]
+```
+![Azure AD](https://img.shields.io/badge/Azure_AD-000?logo=microsoftazure&logoColor=00FF9C)
+![IdentityServer](https://img.shields.io/badge/IdentityServer-000?logo=dotnet&logoColor=00FF9C)
+---
+```txt
+[🧪 Quality, Performance & Observability]
+```
+![xUnit](https://img.shields.io/badge/xUnit-000?logo=dotnet&logoColor=00FF9C)
+![NUnit](https://img.shields.io/badge/NUnit-000?logo=dotnet&logoColor=00FF9C)
+![Serilog](https://img.shields.io/badge/Serilog-000?logo=dotnet&logoColor=00FF9C)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=00FF9C)
+---
+```txt
+[ 🖥 Desktop & Cross-Platform ]
+```
+![WPF](https://img.shields.io/badge/WPF-000?logo=windows&logoColor=00FF9C)
+![WinUI](https://img.shields.io/badge/WinUI-000?logo=windows&logoColor=00FF9C)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-000?logo=dotnet&logoColor=00FF9C)
+
 ```txt
 [  GitHub Activity ]
 ```
