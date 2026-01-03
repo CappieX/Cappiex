@@ -185,6 +185,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=00FF9C)
 ![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=00FF9C)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=00FF9C)
+![Postman](https://img.shields.io/badge/Postman-000?logo=postman&logoColor=00FF9C)
 ---
 ```txt
 [ :: AI / Data Stack]
@@ -208,7 +209,9 @@ A technology company focused on **long-term impact**, building platforms that em
 ```txt
 [ 🏗 Containers & CI/CD ]
 ```
-![Docker](https://img.shields.io/badge/Docker-111?logo=docker&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=00FF9C)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes&logoColor=00FF9C)
+![CI/CD](https://img.shields.io/badge/CI/CD-000?logo=githubactions&logoColor=00FF9C)
 ![Linux](https://img.shields.io/badge/Linux-111?logo=linux&logoColor=00FF9C)
 ![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=00FF9C)
 ---
@@ -232,12 +235,27 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Apple](https://img.shields.io/badge/Apple-111?logo=apple&logoColor=00FF9C)
 ![Discord](https://img.shields.io/badge/Discord-000?logo=discord&logoColor=00FF9C)
 ---
+```txt
+[ Monitoring, Logs & Incident Response ]
+```
+![Application Insights](https://img.shields.io/badge/Application_Insights-000?logo=microsoftazure&logoColor=00FF9C)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-000?logo=microsoftazure&logoColor=00FF9C)
+![Logs](https://img.shields.io/badge/Log_Analysis-000?logo=elastic&logoColor=00FF9C)
+---
 
 ```txt
 [ 🧰 Messaging & Distributed Systems]
 ```
 ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-000?logo=microsoftazure&logoColor=00FF9C)
 ![Azure Event Grid](https://img.shields.io/badge/Azure_Event_Grid-000?logo=microsoftazure&logoColor=00FF9C)
+---
+```txt
+[ 🎫 Customer Support & Collaboration Tools ]
+```
+![Zendesk](https://img.shields.io/badge/Zendesk-000?logo=zendesk&logoColor=00FF9C)
+![Jira](https://img.shields.io/badge/Jira-000?logo=jira&logoColor=00FF9C)
+![Confluence](https://img.shields.io/badge/Confluence-000?logo=confluence&logoColor=00FF9C)
+![Slack](https://img.shields.io/badge/Slack-000?logo=slack&logoColor=00FF9C)
 ---
 ```txt
 [ Auth & Security ]
@@ -259,6 +277,22 @@ A technology company focused on **long-term impact**, building platforms that em
 ![WPF](https://img.shields.io/badge/WPF-000?logo=windows&logoColor=00FF9C)
 ![WinUI](https://img.shields.io/badge/WinUI-000?logo=windows&logoColor=00FF9C)
 ![MAUI](https://img.shields.io/badge/.NET_MAUI-000?logo=dotnet&logoColor=00FF9C)
+---
+```txt
+[ OS, Platforms & Environment Knowledge ]
+```
+![Windows](https://img.shields.io/badge/Windows-000?logo=windows&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=00FF9C)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?logo=powershell&logoColor=00FF9C)
+![Bash](https://img.shields.io/badge/Bash-000?logo=gnu-bash&logoColor=00FF9C)
+----
+```txt
+[☁️ Microsoft Cloud & Enterprise Support Stack]
+```
+![Azure](https://img.shields.io/badge/Azure-000?logo=microsoftazure&logoColor=00FF9C)
+![Azure AD](https://img.shields.io/badge/Azure_AD-000?logo=microsoftazure&logoColor=00FF9C)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-000?logo=microsoft&logoColor=00FF9C)
+![Intune](https://img.shields.io/badge/Intune-000?logo=microsoft&logoColor=00FF9C)
 
 ```txt
 [  GitHub Activity ]
