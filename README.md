@@ -118,13 +118,6 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ## MODEL::  MR.CREAMS — AI-Powered Emotional Intelligence Platform
 🔗 Repository: **https://github.com/CappieX/MRCREAMS**
-<div align="center">
-  <h3>🧠 MR.CREAMS — AI-Powered Emotional Intelligence Platform</h3>
-  <a href="https://github.com/CappieX/MRCREAMS">
-    <img src="assets/github_preview.webp" width="95%" />
-  </a>
-</div>
-
 
 **Mission**
 > Transform human relationships through **real-time emotional intelligence and AI-assisted insights**.
