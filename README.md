@@ -82,20 +82,20 @@ My work is deeply rooted in **real-world problems**, especially within **healthc
 ---
 
 ```txt
-[ 🚀 Companies & Platforms]
+[  Companies & Platforms]
 ```
-### 🏢 **Enum Technologies** (Founder)
+###  **Enum Technologies** (Founder)
 A technology company focused on **long-term impact**, building platforms that empower institutions, professionals, and communities.
 
 **Core Products**
-- 🏥 **Enum HMS** – Healthcare Management System  
-- 🤖 **MR.CREAMS** – AI-Powered Emotional Intelligence Platform  
+-  **Enum HMS** – Healthcare Management System  
+-  **MR.CREAMS** – AI-Powered Emotional Intelligence Platform  
 
 ---
 ```txt
-[🧬 Flagship Projects]
+[ Flagship Projects]
 ```
-## 🏥 Enum HMS — Healthcare Management System
+##  Enum HMS — Healthcare Management System
 > **A scalable, modular HMS designed for real healthcare environments**
 
 **Focus**
@@ -110,14 +110,14 @@ A technology company focused on **long-term impact**, building platforms that em
 - Secure medical data handling
 - Designed for future AI & analytics integration
 
-📌 *Status: Active development & system expansion*
+ *Status: Active development & system expansion*
 
-📸 **Architecture / Screenshots**
+ **Architecture / Screenshots**
 > _(Coming soon — system diagrams & UI previews will be added)_  
 
 
 ## MODEL::  MR.CREAMS — AI-Powered Emotional Intelligence Platform
-🔗 Repository: **https://github.com/CappieX/MRCREAMS**
+ Repository: **https://github.com/CappieX/MRCREAMS**
 
 <img src="assets/github_preview.webp" alt="MR.CREAMS UI Preview" width="100%" />
 <p align="center">
@@ -147,11 +147,11 @@ A technology company focused on **long-term impact**, building platforms that em
 - 12 partner organizations  
 - 90%+ model accuracy  
 
-📈 *Roadmap includes mobile apps, predictive analytics, and API marketplace.*
+ *Roadmap includes mobile apps, predictive analytics, and API marketplace.*
 
 ---
 
-## [ 🛠 Tech Stack ]
+## [  Tech Stack ]
 
 ```txt
 [ /> Core Languages ]
@@ -169,7 +169,7 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ---
 ```txt
-[ 🔥 Frontend ]
+[  Frontend ]
 ```
 ![HTML](https://img.shields.io/badge/HTML-000?logo=html5&logoColor=00FF9C)
 ![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=00FF9C)
@@ -185,7 +185,7 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ---
 ```txt
-[ ⚙️ Backend & APIs ]
+[  Backend & APIs ]
 ```
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=00FF9C)
 ![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=00FF9C)
@@ -202,7 +202,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=00FF9C)
 ---
 ```txt
-[ ☁️ Cloud & DevOpsPlatforms ]
+[  Cloud & DevOpsPlatforms ]
 ```
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws&logoColor=00FF9C)
 ![Azure](https://img.shields.io/badge/Azure-000?logo=microsoftazure&logoColor=00FF9C)
@@ -212,7 +212,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase&logoColor=00FF9C)
 ---
 ```txt
-[ 🏗 Containers & CI/CD ]
+[  Containers & CI/CD ]
 ```
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=00FF9C)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes&logoColor=00FF9C)
@@ -221,7 +221,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=00FF9C)
 ---
 ```txt
-[ 🗄 Databases] 
+[  Databases] 
 ```
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=00FF9C)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=00FF9C)
@@ -232,7 +232,7 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ---
 ```txt
-[ 🧰 Product & Workflow Tools ]
+[  Product & Workflow Tools ]
 ```
 ![Figma](https://img.shields.io/badge/Figma-111?logo=figma&logoColor=00FF9C)
 ![Notion](https://img.shields.io/badge/Notion-111?logo=notion&logoColor=00FF9C)
@@ -249,13 +249,13 @@ A technology company focused on **long-term impact**, building platforms that em
 ---
 
 ```txt
-[ 🧰 Messaging & Distributed Systems]
+[  Messaging & Distributed Systems]
 ```
 ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-000?logo=microsoftazure&logoColor=00FF9C)
 ![Azure Event Grid](https://img.shields.io/badge/Azure_Event_Grid-000?logo=microsoftazure&logoColor=00FF9C)
 ---
 ```txt
-[ 🎫 Customer Support & Collaboration Tools ]
+[  Customer Support & Collaboration Tools ]
 ```
 ![Zendesk](https://img.shields.io/badge/Zendesk-000?logo=zendesk&logoColor=00FF9C)
 ![Jira](https://img.shields.io/badge/Jira-000?logo=jira&logoColor=00FF9C)
@@ -269,7 +269,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![IdentityServer](https://img.shields.io/badge/IdentityServer-000?logo=dotnet&logoColor=00FF9C)
 ---
 ```txt
-[🧪 Quality, Performance & Observability]
+[ Quality, Performance & Observability]
 ```
 ![xUnit](https://img.shields.io/badge/xUnit-000?logo=dotnet&logoColor=00FF9C)
 ![NUnit](https://img.shields.io/badge/NUnit-000?logo=dotnet&logoColor=00FF9C)
@@ -277,7 +277,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=00FF9C)
 ---
 ```txt
-[ 🖥 Desktop & Cross-Platform ]
+[  Desktop & Cross-Platform ]
 ```
 ![WPF](https://img.shields.io/badge/WPF-000?logo=windows&logoColor=00FF9C)
 ![WinUI](https://img.shields.io/badge/WinUI-000?logo=windows&logoColor=00FF9C)
@@ -292,7 +292,7 @@ A technology company focused on **long-term impact**, building platforms that em
 ![Bash](https://img.shields.io/badge/Bash-000?logo=gnu-bash&logoColor=00FF9C)
 ----
 ```txt
-[☁️ Microsoft Cloud & Enterprise Support Stack]
+[ Microsoft Cloud & Enterprise Support Stack]
 ```
 ![Azure](https://img.shields.io/badge/Azure-000?logo=microsoftazure&logoColor=00FF9C)
 ![Azure AD](https://img.shields.io/badge/Azure_AD-000?logo=microsoftazure&logoColor=00FF9C)
@@ -309,7 +309,7 @@ A technology company focused on **long-term impact**, building platforms that em
 
 ---
 
-## 🌍 Personal Philosophy ...
+##  Personal Philosophy ...
 ```txt
 [ PHILOSOPHY.LOG ]
 > Technology should outlive trends
@@ -339,8 +339,8 @@ UI/UX Manager
 AI-powered platforms
 Healthcare & high-impact infrastructure
 
-📍 Ethiopia | 🌍 Global-ready  
-🗣 Amharic (Native) | English (Fluent)
+ Ethiopia | 🌍 Global-ready  
+ Amharic (Native) | English (Fluent)
 ```
 ---
   
